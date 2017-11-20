@@ -1,0 +1,1 @@
+Add your own music and add it to MusicManagerPrefab array in editor.

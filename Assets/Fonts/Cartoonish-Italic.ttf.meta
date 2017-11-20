@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 698e1330569abc348bee7b0e488dc583
+timeCreated: 1511108260
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cartoonish
+  fontNames:
+  - Cartoonish
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 245aae9edb9fd414082f79d90ed803b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
